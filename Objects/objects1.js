@@ -17,3 +17,4 @@ var farewells = [
 ]
 
 greeting(...farewells)
+

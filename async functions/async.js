@@ -1,7 +1,4 @@
 
-
-
-
 //async
 //async functions always return a promise. 
 // if the function returns a value the promise will ne resolved with that value. 
